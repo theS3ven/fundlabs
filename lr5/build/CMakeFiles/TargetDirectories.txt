@@ -1,0 +1,3 @@
+/Users/mk/finallabs/fundlabs/lr5/build/CMakeFiles/fund_lr5.dir
+/Users/mk/finallabs/fundlabs/lr5/build/CMakeFiles/edit_cache.dir
+/Users/mk/finallabs/fundlabs/lr5/build/CMakeFiles/rebuild_cache.dir
